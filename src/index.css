@@ -35,6 +35,13 @@ h1 {
   line-height: 1.1;
 }
 
+/* style for p elements */
+.App p{
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
